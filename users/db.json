@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "John",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "Jane",
+      "age": 38,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Bill",
+      "age": 40,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Leaf",
+      "description": "green green"
+    },
+    {
+      "id": "2",
+      "name": "Tree",
+      "description": "brown brown"
+    }
+  ]
+}
